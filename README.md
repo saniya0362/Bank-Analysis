@@ -1,4 +1,4 @@
-# Bank Customer Analysis Dashboard  
+# Bank Customer Analysis 
 
 ## 📌 Project Overview  
 This project analyzes bank customers to understand **customer churn vs. retention**.  
