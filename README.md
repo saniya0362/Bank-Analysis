@@ -76,6 +76,6 @@ The Power BI dashboard was structured into three key pages:
 
 ## 📂 Project Structure 
 - [Data Cleaning & Transformation Script](./BankData.ipynb) → Python Code for Cleaning and Transforming data.
-- [Demo Video](./video/demo.mp4) → Demonstration of How Report Works.
-- [Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjAzNDM1MzMtNmY5NS00OWZmLWE0NGYtZDZiZTQ4YTgyMGVjIiwidCI6ImQyNzJiNzg4LTU4YzctNGM0NS1hMWRmLTk3ODYyYzE3ODkyOSJ9) → View Live Report.
+- [Demo Video](https://drive.google.com/file/d/19ZEPAdHubWQDdfs8a1nYmxbj4ZQ90GtZ/view?usp=sharing) → Demonstration of How Report Works.
+- [Live Report](https://app.powerbi.com/viewr=eyJrIjoiMjAzNDM1MzMtNmY5NS00OWZmLWE0NGYtZDZiZTQ4YTgyMGVjIiwidCI6ImQyNzJiNzg4LTU4YzctNGM0NS1hMWRmLTk3ODYyYzE3ODkyOSJ9) → View Live Report.
 
